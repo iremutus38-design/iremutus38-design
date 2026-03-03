@@ -116,4 +116,7 @@ I enjoy solving real-world problems through technology and have tested my skills
 ## 📬 Contact
 
 <p>
-  📧 <a href="/cdn-cgi/l/email-protection#137a61767e66676660202b53
+  📧 <a href="mailto:iremutus38@gmail.com">iremutus38@gmail.com</a><br/>
+  📍 Darica, Kocaeli, Turkey<br/>
+  🔗 <a href="https://www.linkedin.com/in/iremutus">linkedin.com/in/iremutus</a>
+</p>
