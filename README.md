@@ -103,13 +103,8 @@ I enjoy solving real-world problems through technology and have tested my skills
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iremutus38-design&show_icons=true&theme=rose_pine&hide_border=true&count_private=true&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremutus38-design&layout=compact&theme=rose_pine&hide_border=true&cache_seconds=1800" height="160"/>
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=iremutus38-design&theme=rose_pine&hide_border=true"/>
 </p>
----
 
 ## 📬 Contact
 
