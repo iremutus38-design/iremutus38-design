@@ -110,7 +110,6 @@ I enjoy solving real-world problems through technology and have tested my skills
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremutus38-design&theme=rose_pine&hide_border=true"/>
 </p>
-
 ---
 
 ## 📬 Contact
