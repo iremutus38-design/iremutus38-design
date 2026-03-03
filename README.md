@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:iremutus38@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#89e0fbece4fcfdfcfabab1c9eee4e8e0e5a7eae6e4">
     <img src="https://img.shields.io/badge/Email-iremutus38@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/iremutus">
@@ -79,9 +79,14 @@ I enjoy solving real-world problems through technology and have tested my skills
 
 ## 💼 Experience
 
-- **Artificial Intelligence & Computer Vision Intern** – Hyperion Tech *(2025)*
-- **Industrial Automation Intern** – PDS Machine *(2023)*
-- **Kozmik Group** *(2025)* · **Oncoded Soft** *(2024)* · **Kedits Türkiye** *(2024)*
+| | Şirket | Rol | Dönem |
+|---|---|---|---|
+| 🟢 | **YongaTek** | Intern Engineer | *(Devam Ediyor)* |
+| ✅ | **Hyperion Tech** | AI & Computer Vision Intern | 2025 |
+| ✅ | **Kozmik Group** | | 2025 |
+| ✅ | **PDS Machine** | Industrial Automation Intern | 2023 |
+| ✅ | **Oncoded Soft** | | 2024 |
+| ✅ | **Kedits Türkiye** | | 2024 |
 
 ---
 
@@ -99,8 +104,11 @@ I enjoy solving real-world problems through technology and have tested my skills
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=İremUtuş&show_icons=true&theme=rose_pine&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=İremUtuş&layout=compact&theme=rose_pine&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iremutus38-designdes&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iremutus38-design&layout=compact&theme=rose_pine&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iremutus38-design&theme=rose_pine&hide_border=true"/>
 </p>
 
 ---
@@ -108,6 +116,4 @@ I enjoy solving real-world problems through technology and have tested my skills
 ## 📬 Contact
 
 <p>
-  📧 <a href="mailto:iremutus38@gmail.com">iremutus38@gmail.com</a><br/>
-  📍 Darica, Kocaeli, Turkey
-</p>
+  📧 <a href="/cdn-cgi/l/email-protection#137a61767e66676660202b53
